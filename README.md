@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @AnnaQuants
+- 👀 I’m interested in Quantatative Finance
+- 🌱 I’m currently learning Python for Systematic Trading
+- 💞️ I’m looking to collaborate on Quant projects but I'm green.
+- 📫 How to reach me: chuckanutbotanicals@gmail.com
+- ⚡ Fun fact: I was a 3 sport athlete growing up. (I lettered 10/12 chances -I quit 1 sport.)
+
+<!---
+AnnaQuants/AnnaQuants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

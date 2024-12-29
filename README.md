@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnaQuants
 - 👀 I’m interested in Quantatative Finance
-- 🌱 I’m currently learning Python for Systematic Trading
+- 🌱 I just started a Masters of Science in Finacial Engineering program (2025)
 - 💞️ I’m looking to learn as much as I can about machine learning for algorithmic trading.
 - 📫 How to reach me: chuckanutbotanicals@gmail.com
 - ⚡ Fun fact: I was a 3 sport athlete growing up. (I lettered 10/12 chances -I quit 1 sport.)
